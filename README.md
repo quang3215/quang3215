@@ -32,16 +32,8 @@
 ### 🛠️ Kỹ năng & Công cụ (Tech Stack)
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Bạn có thể thêm/bớt icon ở thuộc tính 'i=' bên dưới -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,figma,mysql,tailwind&perline=7" alt="Kỹ năng" />
   </a>
-</div>
-
-<br />
-
-### 🏆 Thành tựu GitHub (Trophies)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quang3215&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
 <br />
