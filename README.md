@@ -1,54 +1,36 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/91/3c/65/913c6508933946272822a8627885b736.gif" width="100%" alt="Starship View">
-  
-  <br>
-  
-  <h1>🛸 MISSION CONTROL: NEXUS-01 🛸</h1>
-  
-  <code><b>[ STATUS: ]</b></code> <img src="https://img.shields.io/badge/System-ONLINE-00f2ff?style=flat-square" alt="Online"> 
-  &nbsp;&nbsp;
-  <code><b>[ USER: ]</b></code> <img src="https://img.shields.io/badge/Commander-LE_MINH_QUANG-bc00ff?style=flat-square" alt="User">
+  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Header Animation" width="100%" />
+</div>
 
-  <br><br>
+<br>
 
-  <p><i>"Khám phá những biên giới xa xôi của không gian số."</i></p>
+👋 Chào bạn. Tôi là **Lê Minh Quang**. 
 
-  <a href="mailto:cua-ban@gmail.com">
-    <img src="https://img.shields.io/badge/-Final_Transmission-000000?style=for-the-badge&logo=minutemailer&logoColor=00f2ff&labelColor=000000&color=00f2ff" alt="Email">
-  </a>
+Tôi là một chuyên gia về thương mại điện tử, tập trung vào việc thiết lập, tối ưu các chiến dịch quảng cáo số (Google Ads, Facebook Ads) và phát triển nội dung. Tôi đặc biệt yêu thích việc áp dụng công nghệ và dữ liệu để giải quyết các bài toán vận hành, kinh doanh đa kênh. Ngoài công việc chính, tôi đam mê xê dịch, thích đi phượt, lưu giữ khoảnh khắc qua ống kính máy ảnh và không ngừng khám phá các thiết bị công nghệ mới.
+
+### 🔭 Đang thực hiện & Quan tâm
+- Vận hành và mở rộng các kênh phân phối (Đại lý cấp 1 thiết bị chiếu sáng Rạng Đông).
+- Tích hợp các giải pháp cloud và AI (Firebase, Google AI Studio) để tự động hóa quản lý kho bãi và theo dõi hiệu suất bán hàng.
+- Nghiên cứu setup luồng công việc tự động trên các nền tảng quản trị doanh nghiệp (Lark, MISA AMIS, Salework) thuộc hệ sinh thái Apple.
+
+### ✏️ Bài viết / Sở thích
+- 📈 Phân tích dữ liệu hành vi & Tối ưu hóa tỷ lệ chuyển đổi trên các sàn TMĐT (Shopee, TikTok Shop, Lazada).
+- 📸 Kinh nghiệm tối ưu đồ nghề nhiếp ảnh (Sony A6700) gọn nhẹ và cơ động cho dân phượt.
+- 💡 Chia sẻ cách quản trị hạ tầng số, tên miền và hosting (Mắt Bão, iNET) cho các dự án kinh doanh online.
+
+### 🛠 My toolbox
+<p>
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/E_Commerce-FF5722?style=flat-square&logo=shopee&logoColor=white" alt="Shopee/TikTok" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Ecosystem" />
+  <img src="https://img.shields.io/badge/Sony_Alpha-333333?style=flat-square&logo=sony&logoColor=white" alt="Sony Camera" />
+</p>
+
+### 📈 Stats
+<p>
   <a href="https://github.com/quang3215">
-    <img src="https://img.shields.io/badge/-Neural_Link-000000?style=for-the-badge&logo=vsco&logoColor=bc00ff&labelColor=000000&color=bc00ff" alt="Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true" alt="Quang's Github Stats" />
   </a>
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <h3>⚡ CORE DIAGNOSTICS & MODULES ⚡</h3>
-  
-  <table style="border-collapse: collapse; border: none; background: transparent;">
-    <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://i.pinimg.com/originals/05/2f/1b/052f1b4028f096230f890cf5a73e51a6.gif" width="300" style="border: 2px solid #00f2ff; border-radius: 50%;">
-        <p><code>[ SCANNING NEURAL DRIVE... ]</code></p>
-      </td>
-      <td width="50%" align="left" style="border: none;">
-        <br>
-        <p><b>> MODULE_01:</b> <code>CREATIVE_SYNTHESIS</code> (100%)</p>
-        <p><b>> MODULE_02:</b> <code>VISUAL_LOGIC_V4</code> (95%)</p>
-        <p><b>> MODULE_03:</b> <code>GALAXY_MAP_ENGINE</code> (ACTIVE)</p>
-        <p><b>> MODULE_04:</b> <code>CYBER_AESTHETIC</code> (ENGAGED)</p>
-        <br>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueW41eW94bndueW54bndueW54bndueW54bndueW54bndueW54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx4aJpS2R4k/giphy.gif" width="200">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="right">
-  <code>STAR_DATE: 2024.11.0 | SECTOR: G-84</code>
-</div>
+</p>
