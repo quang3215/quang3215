@@ -1,71 +1,42 @@
 <div align="center">
-  <!-- Header Banner Hacker Style -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=250&section=header&text=Lê%20Minh%20Quang&fontSize=60&animation=fadeIn&fontAlignY=40&desc=System%20Admin%20%7C%20Hacker%20%7C%20Developer&descAlignY=58&descAlign=50&fontColor=00ff00" alt="Hacker Banner" />
+  <!-- Tiêu đề trong suốt cực sang trọng -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=white&height=150&section=header&text=Welcome%20to%20my%20Universe&fontSize=45&fontColor=9C27B0&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <h3>
-    <code>>_ sudo su - quang3215</code><br>
-    <code>>_ Access Granted... Welcome to the Matrix 🟢</code>
-  </h3>
+  <!-- Ảnh động GIF Lofi Pixel Art cực Chill -->
+  <img src="https://i.pinimg.com/originals/82/b9/cd/82b9cd07db580327f311fbab79c33959.gif" width="650" alt="Lofi Aesthetic" style="border-radius: 10px;" />
 </div>
 
-<br />
+<br><br>
 
-### 💻 SYSTEM STATS (HACKED DATA)
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-365_Days_🔥-00ff00?style=for-the-badge&logo=keepassxc&logoColor=black&labelColor=000000" alt="Streak"/>
-  <img src="https://img.shields.io/badge/Contributions-Over_9000!!-00ff00?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" alt="Over 9000"/>
+  <i>"Khám phá không gian số bằng những dòng code tĩnh lặng."</i><br>
+  <b>— Lê Minh Quang —</b>
 </div>
 
-<br />
+<br><br>
 
-### 📡 SYSTEM DATA (Bypassed & Manipulated)
-<!-- Bảng dữ liệu đã bị "Hack" bằng HTML -->
 <div align="center">
-  <table style="background-color: #0D1117; border: 1px solid #00ff00; border-radius: 10px;">
-    <tr>
-      <td align="center" width="250" style="border: none;">
-        <br>
-        <!-- Rank S++ Ảo -->
-        <img src="https://img.shields.io/badge/RANK-S%2B%2B-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Rank S++"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/SYSTEM_OVERRIDE-SUCCESS-000000?style=flat-square&color=00ff00" />
-        <br><br>
-      </td>
-      <td width="350" style="border: none; color: #00ff00; font-family: monospace;">
-        <ul style="list-style-type: none;">
-          <br>
-          <li>⭐ <b>Total Stars Earned:</b> <code>99,999+</code></li><br>
-          <li>🔥 <b>Total Commits:</b> <code>1,452,031</code></li><br>
-          <li>🚀 <b>Total PRs:</b> <code>5,240</code></li><br>
-          <li>🐛 <b>Total Issues:</b> <code>0 (No Bugs Found)</code></li><br>
-          <li>🌍 <b>Contributed to:</b> <code>[TOP SECRET]</code></li>
-          <br>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <!-- Nút mạng xã hội tông màu Đen - Tím -->
+  <a href="mailto:quang3215@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=9C27B0" alt="Email" /></a>
+  <a href="https://github.com/quang3215"><img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=9C27B0" alt="GitHub" /></a>
 </div>
 
-<br />
+<br><br>
 
-### 🛠️ ARSENAL (Vũ khí & Công cụ)
 <div align="center">
+  <h3 style="color: #9C27B0;">✦ Công nghệ đồng hành ✦</h3>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,bash,vim,python,js,ts,react,nodejs,docker,git,github,vscode&perline=7" alt="Kỹ năng" />
+    <!-- Các icon kỹ năng được xếp đẹp mắt -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,figma,vscode,git&theme=dark&perline=5" alt="Skills" />
   </a>
 </div>
 
-<br />
-
-### 📊 REAL-TIME NETWORK (Ngôn ngữ sử dụng thật)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang3215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
-</div>
-
-<br />
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=100&section=footer" alt="Footer Banner" />
+  <!-- Lượn sóng kết thúc -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9C27B0&height=100&section=footer" />
 </div>
