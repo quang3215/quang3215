@@ -40,7 +40,7 @@
 
 ### 📊 Thống kê hoạt động (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang3215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
 </div>
 <div align="center">
