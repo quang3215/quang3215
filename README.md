@@ -12,14 +12,22 @@
 
 <br />
 
-### 📡 SYSTEM DATA (Bypassed & Manipulated)
+### 💻 SYSTEM STATS (HACKED DATA)
+<div align="center">
+  <img src="https://img.shields.io/badge/Current_Streak-365_Days_🔥-00ff00?style=for-the-badge&logo=keepassxc&logoColor=black&labelColor=000000" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Contributions-Over_9000!!-00ff00?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" alt="Over 9000"/>
+</div>
 
+<br />
+
+### 📡 SYSTEM DATA (Bypassed & Manipulated)
+<!-- Bảng dữ liệu đã bị "Hack" bằng HTML -->
 <div align="center">
   <table style="background-color: #0D1117; border: 1px solid #00ff00; border-radius: 10px;">
     <tr>
       <td align="center" width="250" style="border: none;">
         <br>
-        <!-- Rank -->
+        <!-- Rank S++ Ảo -->
         <img src="https://img.shields.io/badge/RANK-S%2B%2B-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Rank S++"/>
         <br><br>
         <img src="https://img.shields.io/badge/SYSTEM_OVERRIDE-SUCCESS-000000?style=flat-square&color=00ff00" />
@@ -42,37 +50,18 @@
 
 <br />
 
-<!-- Biểu đồ ngôn ngữ -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang3215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=100&section=footer" alt="Footer Banner" />
-</div>
-
-<br />
-
 ### 🛠️ ARSENAL (Vũ khí & Công cụ)
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Đã thêm các icon của Hacker như Kali Linux, Bash, Vim... -->
     <img src="https://skillicons.dev/icons?i=kali,linux,bash,vim,python,js,ts,react,nodejs,docker,git,github,vscode&perline=7" alt="Kỹ năng" />
   </a>
 </div>
 
 <br />
 
-### 📡 REAL-TIME NETWORK (Dữ liệu ngầm)
+### 📊 REAL-TIME NETWORK (Ngôn ngữ sử dụng thật)
 <div align="center">
-  <!-- Bảng thật đã được ẩn Rank và kích hoạt đếm code Private -->
-  <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide_rank=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang3215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quang3215&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
 </div>
 
 <br />
