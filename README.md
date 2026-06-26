@@ -1,46 +1,46 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Lê%20Minh%20Quang&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Code%20vì%20đam%20mê&descAlignY=58&descAlign=50" alt="Header Banner" />
+  <!-- Header Banner Hacker Style -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=250&section=header&text=Lê%20Minh%20Quang&fontSize=60&animation=fadeIn&fontAlignY=40&desc=System%20Admin%20%7C%20Hacker%20%7C%20Developer&descAlignY=58&descAlign=50&fontColor=00ff00" alt="Hacker Banner" />
 </div>
 
 <div align="center">
   <h3>
-    Hey there! 👋 Chào mừng đến với không gian code của tôi.
+    <code>>_ sudo su - quang3215</code><br>
+    <code>>_ Access Granted... Welcome to the Matrix 🟢</code>
   </h3>
 </div>
 
 <br />
 
-<!-- Nút Mạng Xã Hội -->
+### 💻 SYSTEM STATS (HACKED DATA)
+<!-- Đây là các thông số ảo để "khè" người xem -->
 <div align="center">
-  <a href="mailto:quang3215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://github.com/quang3215"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Rank-S%2B%2B-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Rank S++"/>
+  <img src="https://img.shields.io/badge/Total_Commits-99,999%2B-00ff00?style=for-the-badge&logo=git&logoColor=black&labelColor=000000" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Pull_Requests-5,240-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Stars_Earned-10,000%2B-00ff00?style=for-the-badge&logo=apache-spark&logoColor=black&labelColor=000000" alt="Stars"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Current_Streak-365_Days_🔥-00ff00?style=for-the-badge&logo=keepassxc&logoColor=black&labelColor=000000" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Contributions-Over_9000!!-00ff00?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" alt="Over 9000"/>
 </div>
 
 <br />
 
-### 👨‍💻 Về bản thân (About Me)
-- 🔭 Hiện tại tôi đang tập trung phát triển các dự án Web (Frontend & Backend).
-- 🌱 Đang không ngừng học hỏi và nâng cao kỹ năng về **TypeScript, React và NodeJS**.
-- 👯 Rất sẵn lòng hợp tác và đóng góp cho các dự án Open Source.
-- 💬 Hãy hỏi tôi về: **HTML, CSS, JavaScript**.
-- ⚡ Fun fact: Tôi cực kỳ đam mê việc tối ưu giao diện và "săn" huy hiệu trên GitHub.
-
-<br />
-
-### 🛠️ Kỹ năng & Công cụ (Tech Stack)
+### 🛠️ ARSENAL (Vũ khí & Công cụ)
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,figma,mysql,tailwind&perline=7" alt="Kỹ năng" />
+    <!-- Đã thêm các icon của Hacker như Kali Linux, Bash, Vim... -->
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash,vim,python,js,ts,react,nodejs,docker,git,github,vscode&perline=7" alt="Kỹ năng" />
   </a>
 </div>
 
 <br />
 
-### 📊 Thống kê hoạt động (GitHub Stats)
+### 📡 REAL-TIME NETWORK (Dữ liệu ngầm)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="150" alt="Stats" />
+  <!-- Bảng thật đã được ẩn Rank và kích hoạt đếm code Private -->
+  <img src="https://github-readme-stats.vercel.app/api?username=quang3215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide_rank=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang3215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
 </div>
 <div align="center">
@@ -49,7 +49,6 @@
 
 <br />
 
-<!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=100&section=footer" alt="Footer Banner" />
 </div>
