@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <!-- Tiêu đề trong suốt cực sang trọng -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=white&height=150&section=header&text=Welcome%20to%20my%20Universe&fontSize=45&fontColor=9C27B0&animation=fadeIn" />
 </div>
